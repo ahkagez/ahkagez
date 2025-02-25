@@ -6,15 +6,15 @@
 
 I am a Multiplatform Application Development (DAM) student in Mallorca, currently learning Java, MySQL, HTML, CSS, and XML. I am passionate about computing and programming, always exploring new technologies.
 
-<h1>🎮 Game Development</h1>
+<h3>🎮 Game Development</h3>
 <p>As a hobby, I develop video games using Unity and Sbox.</p>
 <p>In Unity, I work in a team creating games just for fun, without official releases.</p>
 <p>In Sbox, I have been exploring this new engine since 2023, testing its graphics engine and pushing its limits.</p>
 
-<h2>🎨 Editing & Modeling</h2>
+<h3>🎨 Editing & Modeling</h3>
 <p>I also enjoy photo and video editing, using tools like Photoshop and Premiere Pro. Additionally, I experiment with Blender for 3D modeling and animation.</p>
 
-<h2>🚀 Always looking for new challenges and learning opportunities in the world of development. Let's code!</h2>
+<h4>🚀 Always looking for new challenges and learning opportunities in the world of development. Let's code!</h4>
 
 <h3 align="left">Programming Language:</h3>
 <p align="left"><img src="icons/java.svg" alt="java" width="40" height="40"/> <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/>  </p>
