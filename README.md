@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🏄‍♂️ Howya, I'm Agez</h1>
+  <h1 align="center">🍀Howya, I'm Agez</h1>
 </div>
 
 ![Alt text](banner.png)
