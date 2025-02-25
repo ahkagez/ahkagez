@@ -4,17 +4,7 @@
 
 ![Alt text](banner.png)
 
-🎮 Currently exploring game development with Unity & Sbox
-
-👨‍🎓 Studying Multiplatform Application Development (DAM) in Mallorca
-
-💻 Learning Java, MySQL, HTML, CSS, and XML
-
-🛠️ Passionate about programming & IT
-
-🎬 Hobbyist in photo/video editing using Photoshop & Premiere Pro
-
-🖥️ Experimenting with 3D modeling in Blender
+<p>🎮 Currently exploring game development with Unity & Sbox<br>👨‍🎓 Studying Multiplatform Application Development (DAM) in Mallorca<br>💻 Learning Java, MySQL, HTML, CSS, and XML<br>🛠️ Passionate about programming & IT<br>🎬 Hobbyist in photo/video editing using Photoshop & Premiere Pro<br>🖥️ Experimenting with 3D modeling in Blender</p>
 
 
 I am a Multiplatform Application Development (DAM) student in Mallorca, currently learning Java, MySQL, HTML, CSS, and XML. I am passionate about computing and programming, always exploring new technologies.
