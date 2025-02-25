@@ -21,7 +21,7 @@
 
 <br />
 
-<h3 align="left">Stats</h3>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahkagez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
