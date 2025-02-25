@@ -15,7 +15,7 @@ I am a Multiplatform Application Development (DAM) student in Mallorca, currentl
 <p>I also enjoy photo and video editing, using tools like Photoshop and Premiere Pro. Additionally, I experiment with Blender for 3D modeling and animation.</p>
 
 <h4>🚀 Always looking for new challenges and learning opportunities in the world of development. Let's code!</h4>
-
+<hr><hr>
 <h2 align="left">Programming Language:</h2>
 <p align="left"><img src="icons/java.svg" alt="java" width="40" height="40"/> <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/>  </p>
 
