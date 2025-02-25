@@ -7,15 +7,8 @@
 <p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>🎬 Hobbyist in photo/video editing using <b>Photoshop</b> & <b>Premiere Pro</b><br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
 
-<h2 align="left">Programming Language:</h2>
-<p align="left"><img src="icons/java.svg" alt="java" width="40" height="40"/> <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/>  </p>
-
-<h2 align="left">Game Engine:</h2>
-<p align="left"><img src="icons/unity.svg" alt="unity" height="40"/><img src="icons/sbox.png" alt="sbox" height="40"/></p>
-
-<h2 align="left">Other Softwares:</h2>
-<p align="left"><img src="icons/blender.svg" alt="blender" width="40" height="40"/> <img src="icons/photoshop.svg" alt="photoshop" width="40" height="40"/></p>
-<br/><br/>  
+<h2 align="left">🧰 Languages and Tools</h2>
+<p align="left"><img src="icons/java.svg" alt="java" width="40" height="40"/> <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/><p align="left"><img src="icons/unity.svg" alt="unity" height="40"/><img src="icons/sbox.png" alt="sbox" height="40"/><img src="icons/blender.svg" alt="blender" width="40" height="40"/> <img src="icons/photoshop.svg" alt="photoshop" width="40" height="40"/></p>
 
 ###
 
