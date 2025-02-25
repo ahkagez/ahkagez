@@ -16,13 +16,13 @@ I am a Multiplatform Application Development (DAM) student in Mallorca, currentl
 
 <h4>🚀 Always looking for new challenges and learning opportunities in the world of development. Let's code!</h4>
 
-<h3 align="left">Programming Language:</h3>
+<h2 align="left">Programming Language:</h2>
 <p align="left"><img src="icons/java.svg" alt="java" width="40" height="40"/> <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/>  </p>
 
-<h3 align="left">Game Engine:</h3>
+<h2 align="left">Game Engine:</h2>
 <p align="left"><img src="icons/unity.svg" alt="unity" height="40"/><img src="icons/sbox.png" alt="sbox" height="40"/></p>
 
-<h3 align="left">Other Softwares:</h3>
+<h2 align="left">Other Softwares:</h2>
 <p align="left"><img src="icons/blender.svg" alt="blender" width="40" height="40"/> <img src="icons/photoshop.svg" alt="photoshop" width="40" height="40"/></p>
 <br/>  
 
