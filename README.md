@@ -1,4 +1,4 @@
-![Alt text](about_me.png)
+![Alt text](about_mee.png)
 
 <div align="center">
   <h1 align="center">🍀Howya, I'm Agez</h1>
