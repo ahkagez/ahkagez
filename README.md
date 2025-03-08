@@ -1,9 +1,5 @@
 ![Alt text](about_me.png)
 
-<div align="center">
-  <h1 align="center">🍀Howya, I'm Agez</h1>
-</div>
-
 <p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>🎬 Hobbyist in photo/video editing using <b>Photoshop</b>, <b>Premiere Pro</b> & <b>After Effects</b><br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
 <h1 align="left">🧰 Languages and Tools</h1>
