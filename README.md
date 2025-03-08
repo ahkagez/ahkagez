@@ -1,4 +1,4 @@
-![Alt text](github_banner.png)
+![Alt text](about_me.png)
 
 <div align="center">
   <h1 align="center">🍀Howya, I'm Agez</h1>
