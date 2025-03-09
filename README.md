@@ -1,5 +1,10 @@
 <h3 align="center"><img src="github_banner.png" alt="<About Me>"/></h3>
 
+# <About Me>
+
+<p> I am Jordi Bosch Ciejka, a graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
+</p>
+
 
 <p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>🎬 Hobbyist in photo/video editing using <b>Photoshop</b>, <b>Premiere Pro</b> & <b>After Effects</b><br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
