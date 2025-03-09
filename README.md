@@ -1,4 +1,4 @@
-<h1 align="center"><img src="about_me.png"/></h1>
+<h1 align="center"><img src="about_me.png" alt="About Me"/></h1>
 
 ![Alt text](about_me.png)
 
