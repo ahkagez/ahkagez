@@ -14,11 +14,13 @@
 💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>
 <br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
-<h1 align="left">Languages</h1>
+<h3 align="left">Languages</h1>
 <img align="left" alt="java" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="csharp" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<h1 align="left">🧰 Softwares</h1>
+<br/>
+
+<h3 align="left">🧰 Softwares</h1>
 <img align="left" alt="unity" width="40"  height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="sbox" width="40"  height="40" style="padding-right:10px;" src="icons/sbox.png"/>
 <img align="left" alt="blender" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
