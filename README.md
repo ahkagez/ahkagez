@@ -2,7 +2,7 @@
 
 <h1 align="center"> &lt;About Me&gt; </h1>
 
-<p> I am Jordi Bosch Ciejka, a graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
+<p> I'm #####, a graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
 </p>
 
 
