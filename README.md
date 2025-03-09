@@ -14,6 +14,8 @@
 💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>
 <br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
+#
+
 <h3 align="left">Languages</h1>
 <img align="left" alt="java" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="csharp" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
