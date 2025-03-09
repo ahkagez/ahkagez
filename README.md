@@ -2,15 +2,23 @@
 
 <h1 align="center"> &lt;About Me&gt; </h1>
 
-<p> I'm #####, a graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
+<p> I'm #####, an amateur graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
 </p>
 
+<br/>
 
-<p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>🎬 Hobbyist in photo/video editing using <b>Photoshop</b>, <b>Premiere Pro</b> & <b>After Effects</b><br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
+### What I'm doing right now
 
-<h1 align="left">🧰 Languages and Tools</h1>
+<p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>
+👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>
+💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>
+<br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
+
+<h1 align="left">Languages</h1>
 <img align="left" alt="java" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="csharp" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<h1 align="left">🧰 Softwares</h1>
 <img align="left" alt="unity" width="40"  height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="sbox" width="40"  height="40" style="padding-right:10px;" src="icons/sbox.png"/>
 <img align="left" alt="blender" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
