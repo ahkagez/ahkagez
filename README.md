@@ -12,7 +12,7 @@
 <p>🎮 Currently exploring game development with <b>Unity</b> & <b>Sbox</b><br>
 👨‍🎓 Studying Multiplatform Application Development (DAM) in <b>Balearic Islands</b><br>
 💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br>
-<br>🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
+🖥️ Experimenting with 3D modeling in <b>Blender</b></p>
 
 #
 
