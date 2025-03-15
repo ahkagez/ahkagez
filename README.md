@@ -2,6 +2,13 @@
 
 <h1 align="center"> &lt;About Me&gt; </h1>
 
+<ul>
+  <li>👨‍🎓 First year of Multiplatform Application Development (DAM) in <b>Balearic Islands</b> </li>
+  <li>🎮 In my free time I'm exploring game development with <b>Unity</b> & <b>Sbox</b></li>
+  <li>💻 Learning <b>Java</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>XML</b><br></li>
+  <li>🖥️ Experimenting with 3D modeling in <b>Blender</b></li>
+</ul>
+
 <p> I'm #####, an amateur graphic designer and beginner programmer. I am currently learning C# for game development while taking a Java course. Previously, I worked as a freelance graphic designer, but I like the idea of programming to create games, to show and express my creativity.<br/>
 </p>
 
